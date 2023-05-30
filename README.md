@@ -45,9 +45,9 @@
 
 ## Output
 
-
-### Name:
-### Register Number: 
+![OUTPUT](/2.png)
+### Name:jagadeesh reddy
+### Register Number: 212222240059
 
 ## RESULT:
 ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
